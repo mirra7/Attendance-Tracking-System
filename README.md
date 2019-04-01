@@ -24,3 +24,8 @@ Attendance Tracking System using Computer Vision
 +---weights				// Folder containing weights of pre-trained model
 |       nn4.small2.v1.h5
 
+
+
+Download the models folder from the link given below and place it in the same directory as above. Run the cap_login python file.
+
+-- https://drive.google.com/open?id=13-fgfmL7cfE3gU7uXTQFpCcwdGmLZM45
